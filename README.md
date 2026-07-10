@@ -1,5 +1,7 @@
 # EDA
 
+================================================================
+
 1) Standard Deviation = how far the point lies from mean
 
 SD = √(Σ(x - μ)² / N)
@@ -8,6 +10,7 @@ SD = √(Σ(x - μ)² / N)
 x is each value in the data set
 μ is the mean of the data set
 N is the number of data points in the population (N-1 for Sample)
+
 =================================================================
 
 2) Z Score = how many standard deviations a data point is from the mean
